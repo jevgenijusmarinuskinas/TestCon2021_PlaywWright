@@ -1,7 +1,7 @@
 # TestCon2021_PlaywWright
 ## How to?
 ### 1. Fork and Clone
-1. Click **[Y Fork]** button at the top right corner
+1. Click **[Y Fork]** button at the top right cornerrrr
 1. Click **[Code]** green button above
 1. Click **[Open with GitHub Desktop]** button
 1. Choose local path to store the repository on your local machine
